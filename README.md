@@ -1,4 +1,5 @@
-# Projects
+# My Projects
+Feel free to check them out.
 
 ## Demos
 - [Letr](https://storied-seahorse-83953f.netlify.app/): A Real-time chat app 
