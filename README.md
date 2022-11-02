@@ -5,21 +5,15 @@
 - **ArcherDiary**: Diary app used to record and store your equipment profile [Demo](https://floating-inlet-90734.herokuapp.com/) | [Github](https://github.com/dkdam/Archer-Session-Diaries)
 - **TicTacToe**: First project I built to demostrate basic JavaScipt/JQueary [Demo](https://dkdam.github.io/Tic-Tac-Toe/) | [Github](https://github.com/dkdam/Tic-Tac-Toe)
 
-## Teck Stack
+## Tech Stack
 ### Languages
-- HTML
-- CSS
-- Javascipt
-- Ruby
+HTML , CSS , Javascript , Ruby
+
 ### Framework
-- Reactjs/Nextjs
-- Tailwind
-- Firebase/Supabase
-- Ruby On Rails
+Reactjs/Nextjs , Tailwind CSS , Firebase , RubyOnRails
+
 ### Learning
-- GO
-- Python
-- Elixir
+GO , Python , Elixir
 
 <!---
 dkdam/dkdam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
