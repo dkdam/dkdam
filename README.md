@@ -13,7 +13,7 @@ HTML , CSS , Javascript , Ruby
 Reactjs/Nextjs , Tailwind CSS , Firebase , RubyOnRails
 
 ### Learning
-GO , Python , Elixir
+Python
 
 <!---
 dkdam/dkdam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
