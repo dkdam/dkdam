@@ -10,7 +10,7 @@
 HTML , CSS , Javascript , Ruby
 
 ### Framework
-Reactjs/Nextjs , Tailwind CSS , Firebase , RubyOnRails
+Reactjs, Nextjs, Nodejs, Tailwind CSS , Firebase, RubyOnRails
 
 ### Learning
 Python, Typescript, MERN
