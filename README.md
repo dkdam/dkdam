@@ -13,7 +13,7 @@ HTML , CSS , Javascript , Ruby
 Reactjs, Nextjs, Nodejs, Tailwind CSS , Firebase, RubyOnRails
 
 ### Learning
-Python, Typescript, MERN
+Typescript, Docker
 
 <!---
 dkdam/dkdam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
