@@ -7,10 +7,10 @@
 
 ## Tech Stack
 ### Languages
-HTML , CSS , Javascript , Ruby
+HTML, CSS, Javascript, Ruby
 
 ### Framework
-Reactjs, Nextjs, Nodejs, Tailwind CSS , Firebase, RubyOnRails
+Reactjs, Nextjs, Nodejs, Tailwind CSS, Firebase, RubyOnRails
 
 ### Learning
 Typescript, Docker
