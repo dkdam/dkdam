@@ -7,13 +7,13 @@
 
 ## Tech Stack
 ### Languages
-HTML, CSS, Javascript, Ruby
+HTML/CSS, Javascript, Ruby
 
 ### Framework
-Reactjs, Nextjs, Nodejs, Tailwind CSS, Firebase, RubyOnRails
+Angular, RubyOnRails, Tailwind CSS, Firebase, Reactjs, Nextjs, 
 
 ### Learning
-Typescript, Docker
+AWS Cloud, Docker, Kubernetes, Terraform
 
 <!---
 dkdam/dkdam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
