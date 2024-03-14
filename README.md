@@ -1,5 +1,5 @@
 # Current Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode,ts,ruby,angular,rails,sass,graphql,docker,aws,kubernetes,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,ts,ruby,angular,rails,sass,graphql,docker,githubactions,aws,kubernetes,terraform)](https://skillicons.dev)
 
 # Projects 👨‍💻
 
