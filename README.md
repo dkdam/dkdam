@@ -1,5 +1,12 @@
 # Current Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode,ts,sass,ruby,angular,rails,graphql,docker,githubactions,aws,kubernetes,terraform)](https://skillicons.dev)
+**Plan**  
+[![My Skills](https://skillicons.dev/icons?i=notion,figma,vscode)](https://skillicons.dev)  
+**Code**  
+[![My Skills](https://skillicons.dev/icons?i=sass,ts,ruby,angular,rails,graphql,postgres)](https://skillicons.dev)  
+**Test & Build**  
+[![My Skills](https://skillicons.dev/icons?i=cypress,githubactions)](https://skillicons.dev)  
+**Deploy**  
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform)](https://skillicons.dev)
 
 # Projects 👨‍💻
 
