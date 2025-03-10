@@ -4,7 +4,7 @@
 **Code**  
 [![My Skills](https://skillicons.dev/icons?i=ruby,ts,angular,rails,graphql,postgres)](https://skillicons.dev)  
 **Test & Build**  
-[![My Skills](https://skillicons.dev/icons?i=cypress,githubactions)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=postman,jest,githubactions)](https://skillicons.dev)  
 **Deploy**  
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform)](https://skillicons.dev)
 
